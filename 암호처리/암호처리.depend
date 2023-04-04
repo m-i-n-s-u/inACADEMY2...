@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675323466 source:c:\users\jms66\onedrive\바탕 화면\새 폴더 (2)\암호처리\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
