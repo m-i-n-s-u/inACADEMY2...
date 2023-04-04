@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675057985 source:c:\users\jms66\onedrive\바탕 화면\새 폴더 (2)\내림차순 정리\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
