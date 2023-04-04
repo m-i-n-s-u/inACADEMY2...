@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675148252 source:c:\users\jms66\onedrive\바탕 화면\코딩\문자 암호화,복호화\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
